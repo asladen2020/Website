@@ -12,7 +12,11 @@ body {
   color: Black;
   font-family: 'Sansita Swashed';
   font-size: 14px;
-  margin: 50px;
+  header,
+  section,
+  footer {
+    padding: 30px;
+  }
 }
 h1 {
   color: red;
