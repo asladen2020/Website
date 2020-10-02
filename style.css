@@ -38,3 +38,16 @@ h1, h2, h3 {
 p {
   line-height: 2;
 }
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: grey;
+}
