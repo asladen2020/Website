@@ -82,3 +82,8 @@ img {
   width: 400px;
   height: 300px;
 }
+
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
